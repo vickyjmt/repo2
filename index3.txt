@@ -1,2 +1,4 @@
  Heyu ! I am in file 3
 changing file 3 first time
+changing file 3 second time
+changing file 3 third time
